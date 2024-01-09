@@ -1,6 +1,6 @@
-## :musical_keyboard:	 Teclado virtual	
+## :musical_keyboard:	 Teclado musical virtual	
 
-Neste repositório, você encontrará um teclado virtual.
+Neste repositório, você encontrará um teclado muscial virtual.
 
 
 ### Tecnologias Utilizadas:
